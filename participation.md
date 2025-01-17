@@ -1,4 +1,4 @@
-# mcb185_homework
+# participation log
 
 
 Week 1
@@ -16,11 +16,17 @@ Total = 3 points
 
 Week 3
 
-
 Week 4
+
 Week 5
+
 Week 6
+
 Week 7
+
 Week 8
+
 Week 9
+
 Week 10
+
