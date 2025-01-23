@@ -15,6 +15,9 @@ Missed class on Thursday because of illness (worked on code from home)
 Total = 3 points
 
 Week 3
+Attended class on Tuesday
+Introduced myself to someone new
+Asked a question in class
 
 Week 4
 
