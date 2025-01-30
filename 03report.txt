@@ -1,0 +1,127 @@
+Tue Jan 28 15:32:40 PST 2025
+CYGWIN_NT-10.0-22631 LAPTOP-B2O3OK2E 3.5.5-1.x86_64 2024-12-20 16:19 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=16
+PROCESSOR_LEVEL=25
+TERM_PROGRAM_VERSION=3.7.7
+ACSvcPort=17532
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-B2O3OK2E
+HOSTNAME=LAPTOP-B2O3OK2E
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+USERDOMAIN=LAPTOP-B2O3OK2E
+PWD=/home/7nuan/Code/mcb185_homework
+USERPROFILE=C:\Users\7nuan
+PRINTER=HPDF8CB0.hsd1.ca.comcast.net (HP ENVY 6000 series)
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/Program Files (x86)/Razer Chroma SDK/bin:/cygdrive/c/Program Files/Razer Chroma SDK/bin:/cygdrive/c/Program Files (x86)/Razer/ChromaBroadcast/bin:/cygdrive/c/Program Files/Razer/ChromaBroadcast/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/cygdrive/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/WINDOWS/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Program Files/MATLAB/MATLAB Runtime/v911/runtime/win64:/cygdrive/c/Users/7nuan/AppData/Local/Microsoft/WindowsApps
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/7nuan
+USERNAME=7nuan
+OneDrive=C:\Users\7nuan\OneDrive
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+APPDATA=C:\Users\7nuan\AppData\Roaming
+SYSTEMROOT=C:\WINDOWS
+LOCALAPPDATA=C:\Users\7nuan\AppData\Local
+EFC_20736=1
+ACSetupSvcPort=23210
+COMPUTERNAME=LAPTOP-B2O3OK2E
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+TERM=xterm
+LOGONSERVER=\\LAPTOP-B2O3OK2E
+USER=7nuan
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+RlsSvcPort=22112
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=5000
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+SESSIONNAME=Console
+HOMEPATH=\Users\7nuan
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/Program Files (x86)/Razer Chroma SDK/bin:/cygdrive/c/Program Files/Razer Chroma SDK/bin:/cygdrive/c/Program Files (x86)/Razer/ChromaBroadcast/bin:/cygdrive/c/Program Files/Razer/ChromaBroadcast/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/cygdrive/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/WINDOWS/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Program Files/MATLAB/MATLAB Runtime/v911/runtime/win64:/cygdrive/c/Users/7nuan/AppData/Local/Microsoft/WindowsApps
+ProgramW6432=C:\Program Files
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/Users/7nuan/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Cygwin64 Terminal.lnk
+WINDIR=C:\WINDOWS
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/7nuan/Code
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/7nuan/Code:
+MCB185
+mcb185_homework
+
+/home/7nuan/Code/MCB185:
+LICENSE
+README.md
+course
+data
+ref
+src
+
+/home/7nuan/Code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/7nuan/Code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff.gz
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/7nuan/Code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/7nuan/Code/MCB185/src:
+mcb185.py
+
+/home/7nuan/Code/mcb185_homework:
+00hello.sh
+01hello.py
+02status.sh
+03report.txt
+LICENSE
+README.md
+ecoli.gff.gz
+participation.md
+poetry.txt
+
+/home/7nuan/Code/mcb185_homework/README.md:
