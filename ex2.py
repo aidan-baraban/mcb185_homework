@@ -1,3 +1,7 @@
+## For Exam 2, write a program which identifies prime numbers and puts a star next to each,
+## in a descending list from 51.
+
+
 def prime(n):                               # identifies prime numbers
     for den in range(2, n//2, + 1):
         if n % den == 0: return False
