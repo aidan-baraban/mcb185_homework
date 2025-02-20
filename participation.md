@@ -1,7 +1,7 @@
-# participation log
+### Participation Log
 
 
-# Week 1
+## Week 1
 Attended class on Tuesday
 Introduced myself to someone new in class
 Asked a question in class
