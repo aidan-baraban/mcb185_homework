@@ -134,5 +134,14 @@ def nilakantha(limit):
 
 print(nilakantha(50))
 
+print('RandomNumbers')
 
 ## Random Numbers
+
+import random
+
+for i in range(5):
+    print(random.random())
+    
+for i in range(3):
+    print(random.randint(1, 6))
