@@ -1,7 +1,7 @@
 # Write functions that convert quality value symbols into error rates and vice-versa.
-# The ord() function returns the ASCII value of a ltter.
+# The ord() function returns the ASCII value of a letter.
 # The chr() function turns an ASCII value into a letter.
-# Demonstrate the fucntions work by calling them several times. Edge cases should return None.
+# Demonstrate the functions work by calling them several times. Edge cases should return None.
 
 
 import math
