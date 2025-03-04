@@ -43,14 +43,20 @@
 ## Week 7
 ### Attended class on Tuesday
 ### Completed Unit 1 Exam
-### Attended Class on Thursday
+### Attended class on Thursday
 ### Completed Unit 2 Exam
 ### Asked a question in class about test demo
 ### Total = 5 points
 
 ## Week 8
+### Attended class on Thursday
+### Introduced myself to someone new
+### Total = 2 points
 
 ## Week 9
+### Attended class on Tuesday
+### Missed class on Thursday (to attend Jennifer Doudna & Frances Arnold talks
+### Participated in Stand up for Science in Sacramento on Friday
 
 ## Week 10
 
