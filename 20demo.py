@@ -145,3 +145,86 @@ for i in range(5):
     
 for i in range(3):
     print(random.randint(1, 6))
+
+random.seed(1)
+print(random.random())
+print(random.random())
+random.seed(2)
+print(random.random())
+print(random.random())
+random.seed(1)
+print(random.random())
+print(random.random())
+
+## Monty Pi-thon
+
+print('Monty Pi-Thon')
+
+#def monte_carlo_pi():
+ #   inside = 0
+  #  total = 0
+   # 
+    #while True:
+     #   x, y = random.random(), random.random()
+      #  if x**2 + y**2 <= 1:
+       #     inside += 1
+        #total += 1
+        #print(f"Estimated pi: {4 * inside / total:.6f}", end="\r")
+    
+#monte_carlo_pi()
+
+## D&D Stats
+
+print('D&D Stats')
+
+
+def roll_3d6():
+    return sum(random.randint(1, 6) for i in range(3))
+    
+total = 0
+num_rolls = 100000
+for i in range(num_rolls):
+    total += roll_3d6()
+    
+average = total / num_rolls
+    
+print(f"Average 3D6: {average:.2f}")
+
+def roll_3d6r1():
+    rolls = [random.randint(1, 6) for i in range(3)]
+    rerolled = [random.randint(1, 6) if roll == 1 else roll for roll in rolls]
+    return sum(rerolled)
+    
+total = 0
+num_rolls = 100000
+for i in range(num_rolls):
+    total += roll_3d6r1()
+    
+average = total / num_rolls
+
+print(f"Average 3D6r1: {average:.2f}")
+
+def roll_3d6x2():
+    return sum(max(random.randint(1, 6), random.randint(1, 6)) for i in range(3))
+    
+total = 0 
+num_rolls = 100000
+for i in range(num_rolls):
+    total += roll_3d6x2()
+    
+average = total / num_rolls
+
+print(f"Average 3D6x2: {average:.2f}")
+
+def roll_4d6d1():
+    rolls = [random.randint(1, 6) for i in range(4)]
+    return sum(sorted(rolls)[1:])
+
+total = 0
+num_rolls = 100000
+for i in range(num_rolls):
+    total += roll_4d6d1()
+
+average = total / num_rolls
+
+print(f"Average 4d6d1: {average:.2f}")
